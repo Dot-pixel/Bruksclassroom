@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+}
+div {
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+.Subjects {
+  text-align: center;
+  background-color: #85B4B2;
+  font-family: 'Comfortaa', cursive;
+}
+.pelink:hover {
+  color: #E89191;
+}
+.pelink {
+  color: #B02A2A;
+  text-decoration: none;
+}
+.artlink:hover {
+  color: #FFF1AA;
+}
+.artlink {
+  color: #FFD60B;
+  text-decoration: none;
+}
+.lalink:hover {
+  color: #E7CAD9;
+}
+.lalink {
+  text-decoration: none;
+  color: #8F3F69;
+}
+.sciencelink:hover {
+  color: #C4F3C9;
+  text-decoration: none;
+}
+.sciencelink {
+  color: #3DCD4C;
+  text-decoration: none;
+}
+.mathlink:hover {
+  color: #F0F3FC;
+  text-decoration: none;
+}
+.mathlink {
+  text-decoration: none;
+  color: #BED8D6;
+}
+.socialink:hover {
+  color: #FFE6B4;
+}
+.socialink {
+  color: #FEBD3C;
+  text-decoration: none;
+}
+.Hibruk {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  background-color: #CBDADA;
+  margin: 0;
+  display: block;
+}
+/*font-family: 'Oswald', sans-serif;
+font-family: 'Comfortaa', cursive;*/
